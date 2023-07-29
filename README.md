@@ -1,6 +1,6 @@
 **GitSearcher React App**
 
-![GitSearcher React App](link-para-a-imagem-do-projeto)
+![GitSearcher React App](public/gitsearch.png)
 
 Descrição:
 -----------------
@@ -40,8 +40,8 @@ Tecnologias Utilizadas:
 
 Agradecimentos:
 -----------------
-Agradecementos ao GitHub por disponibilizar sua API pública.
-Agradecementos ao Matheus Benites instrutor da DIO que ensinou a fazer esse projeto e tornou possível a criação deste projeto.
+- Agradecementos ao GitHub por disponibilizar sua API pública.
+- Agradecementos ao Matheus Benites instrutor da DIO que ensinou a fazer esse projeto e tornou possível a criação deste projeto.
 
 Observações:
 -----------------
